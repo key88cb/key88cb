@@ -37,12 +37,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=key88cb&show_icons=true&theme=radical&include_all_commits=true&v=1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=key88cb&layout=compact&theme=radical&v=1"/>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/key88cb/key88cb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/key88cb/key88cb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/key88cb/key88cb/output/github-contribution-grid-snake.svg">
+</picture>
+<img src="https://raw.githubusercontent.com/key88cb/key88cb/main/github-metrics.svg" alt="Metrics">
 ---
 
 ### 🌐 Connect with Me

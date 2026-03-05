@@ -10,15 +10,15 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 * 🌱 I’m currently learning [LLM / ai infra / CV]
 * 👯 I’m looking to collaborate on [agent! python tools!]
 * 💬 Ask me about [Python, C++, Go]
-* Promise! Meet me in OSPP 2025!
+* 👨‍💻 Promise! Meet me in OSPP 2025!
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/key88cb/key88cb/output/github-contribution-grid-snake-dark.svg">
@@ -44,9 +44,17 @@
 </picture>
 <img src="https://raw.githubusercontent.com/key88cb/key88cb/main/github-metrics.svg" alt="Metrics">
 
+### Some awesome Repositories I Recommend
 
+* 📚 **[learning_research](https://github.com/pengsida/learning_research)**
+  * ZJU前辈的读博经验分享
+  * best methodology ever! 印象最深的！知道自己想要什么！ 🌟 
 
-### 🌐 Connect with Me Plz!
+* 🛠️ **[karpathy/minGPT](https://github.com/karpathy/minGPT)**
+  * OpenAI 创始成员 Andrej Karpathy 写的极简版 GPT 实现。
+  * 代码极其干净优雅。弄懂 Transformer 和大语言模型底层的运行机制，读这个仓库比看十篇论文都有用。
+
+### Connect with Me Plz!
 
 <div align="center">
 

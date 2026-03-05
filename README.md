@@ -4,7 +4,7 @@
 
 `3rd-year Undergraduate | Major in Software Engineering, Minor in ACEE!` 🌍 Location: Hangzhou, China | 📧 Email: Jeliun@zju.edu.cn
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Striving+for+the+extraordinary!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Striving+for+the+extraordinary+work!)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 * 🌱 I’m currently learning [LLM / ai infra / CV]
 * 👯 I’m looking to collaborate on [agent! python tools!]
 * 💬 Ask me about [Python, C++, Go]
-
+* Promise! Meet me in OSPP 2025!
 ---
 
 ### 🛠️ Tech Stack
@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/GO-66CCFF?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSpeed-FCC624?style=for-the-badge&logo=deepspeed&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
@@ -43,9 +43,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/key88cb/key88cb/output/github-contribution-grid-snake.svg">
 </picture>
 <img src="https://raw.githubusercontent.com/key88cb/key88cb/main/github-metrics.svg" alt="Metrics">
----
 
-### 🌐 Connect with Me
+
+
+### 🌐 Connect with Me Plz!
 
 <div align="center">
 

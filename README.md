@@ -2,7 +2,8 @@
 
 # HELLO, I am A Week! 👋
 
-`3rd-year Undergraduate | Major in Software Engineering, Minor in ACEE!` 🌍 Location: Hangzhou, China | 📧 Email: Jeliun@zju.edu.cn
+3rd-year Undergraduate | Major in Software Engineering, Minor in ACEE! 
+🌍 Location: Hangzhou, China | 📧 Email: Jeliun@zju.edu.cn
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Striving+for+the+extraordinary+work!)](https://git.io/typing-svg)
 
@@ -47,8 +48,8 @@
 ### Some awesome Repositories I Recommend
 
 * 📚 **[learning_research](https://github.com/pengsida/learning_research)**
-  * ZJU前辈的读博经验分享
-  * best methodology ever! 印象最深的！知道自己想要什么！ 🌟 
+  * ZJU前辈的科研经验分享 ！Be brave！Step by step！
+  * best methodology ever! 印象最深的：知道自己想要什么！ 🌟 
 
 * 🛠️ **[karpathy/minGPT](https://github.com/karpathy/minGPT)**
   * OpenAI 创始成员 Andrej Karpathy 写的极简版 GPT 实现。

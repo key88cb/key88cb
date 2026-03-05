@@ -53,7 +53,7 @@
 
 * 🛠️ **[karpathy/minGPT](https://github.com/karpathy/minGPT)**
   * OpenAI 创始成员 Andrej Karpathy 写的极简版 GPT 实现。
-  * 代码极其干净优雅。弄懂 Transformer 和大语言模型底层的运行机制，读这个仓库比看十篇论文都有用。
+  * 代码干净优雅。弄懂 Transformer 和大语言模型底层的运行机制，读这个仓库很有用！
 
 ### Connect with Me Plz!
 

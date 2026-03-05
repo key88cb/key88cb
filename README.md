@@ -2,9 +2,9 @@
 
 # HELLO, I am A Week! 👋
 
-**`3rd-year Undergraduate | Major in Software Engineering, Minor in [Your Minor Subject]`** 🌍 Location: Hangzhou, China | 📧 Email: Jeliun@zju.edu.cn
+**`3rd-year Undergraduate | Major in Software Engineering, Minor in ACEE!`** 🌍 Location: Hangzhou, China | 📧 Email: Jeliun@zju.edu.cn
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+about+open+source;Loving+tech+%26+life;AI+Agents+%2F+ML+Infra+%2F+CV;Striving+for+the+extraordinary!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+about+open+source;Loving+tech+%26+life;AI+Agents+%2F+Infra+%2F+CV;Striving+for+the+extraordinary!)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-  <a href="[[Yuque Link here]](https://www.yuque.com/yuqueyonghuakximl)">
+  <a href="[Yuque Link here](https://www.yuque.com/yuqueyonghuakximl)">
     <img src="https://img.shields.io/badge/Yuque-Personal_Blog-25B864?style=for-the-badge&logo=yuque&logoColor=white" />
 <!-- * 🔭 I’m currently working on **[LLM/MLLM Efficient ]** -->
   

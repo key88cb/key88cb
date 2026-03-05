@@ -49,7 +49,7 @@
 
 * 📚 **[learning_research](https://github.com/pengsida/learning_research)**
   * ZJU前辈的科研经验分享 ！Be brave！Step by step！
-  * best methodology ever! 印象最深的：知道自己想要什么！ 🌟 
+  * best methodology ever! 对我影响很大！印象最深的：知道自己想要什么！ 🌟 
 
 * 🛠️ **[karpathy/minGPT](https://github.com/karpathy/minGPT)**
   * OpenAI 创始成员 Andrej Karpathy 写的极简版 GPT 实现。
@@ -57,7 +57,7 @@
 
 ### Connect with Me Plz!
 
-<div align="center">
+<div >
 
   <a href="https://www.yuque.com/yuqueyonghuakximl">
     <img src="https://img.shields.io/badge/Yuque-Personal_Blog-25B864?style=for-the-badge&logo=yuque&logoColor=white" />

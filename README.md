@@ -16,7 +16,7 @@
 * 🌱 I’m currently learning [LLM / ai infra / CV]
 * 👯 I’m looking to collaborate on [agent! python tools!]
 * 💬 Ask me about [Python, C++, Go]
-* 👨‍💻 Promise! Meet me in OSPP 2025!
+* 👨‍💻 Promise! Meet me in OSPP 2026!
 ---
 
 ### Loving Tech Stack (Part of)

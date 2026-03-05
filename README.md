@@ -19,7 +19,7 @@
 * 👨‍💻 Promise! Meet me in OSPP 2025!
 ---
 
-### Tech Stack
+### Loving Tech Stack (Part of)
 
 <div align="center">
   

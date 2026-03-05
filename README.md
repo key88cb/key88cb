@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-* 🌱 I’m currently learning [LLM / ai infra]
+* 🌱 I’m currently learning [LLM / ai infra / CV]
 * 👯 I’m looking to collaborate on [agent! python tools!]
 * 💬 Ask me about [Python, C++, Go]
 

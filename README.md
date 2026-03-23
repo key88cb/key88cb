@@ -13,7 +13,7 @@
 
 ###  About Me
 
-* 🌱 I’m currently learning [LLM / ai infra / CV]
+* 🌱 I’m currently learning [LLM / ai infra /efficient AI]
 * 👯 I’m looking to collaborate on [agent! python tools!]
 * 💬 Ask me about [Python, C++, Go]
 * 👨‍💻 Promise! Meet me in OSPP 2026!
@@ -49,11 +49,11 @@
 
 * 📚 **[learning_research](https://github.com/pengsida/learning_research)**
   * ZJU前辈的科研经验分享 ！Be brave！Step by step！
-  * best methodology ever! 对我影响很大！印象最深的：知道自己想要什么！ 🌟 
+  * best methodology ever! 影响很大！印象最深的：知道自己想要什么！ 🌟 
 
 * 🛠️ **[karpathy/minGPT](https://github.com/karpathy/minGPT)**
-  * OpenAI 创始成员 Andrej Karpathy 写的极简版 GPT 实现。
-  * 代码干净优雅。弄懂 Transformer 和大语言模型底层的运行机制，读这个仓库很有用！
+  * Andrej Karpathy 极简版 GPT 实现。
+  * 干净优雅。弄懂 Transformer 和大语言模型底层的运行机制，读这个仓库很有用！
 
 ### Connect with Me Plz!
 

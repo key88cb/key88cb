@@ -13,7 +13,7 @@
 
 ###  About Me
 
-* 🌱 Research interest lies in [LLM / Video /efficient AI]
+* 🌱 Research interest lies in [LLM / Video /efficient AI/ RL]
 * 👯 I’m looking to collaborate on [agent! python tools!]
 * 💬 Ask me about [Python, C++, Go]
 * 👨‍💻 Meet me in OSPP 2026!
